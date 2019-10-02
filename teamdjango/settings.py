@@ -76,14 +76,7 @@ WSGI_APPLICATION = 'teamdjango.wsgi.application'
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'Academia',
-        'USER': 'postgres',
-        'PASSWORD': 'Practica1',
-        'HOST': 'localhost',
-        'PORT': '5432'
-    }
+   
 }
 
 
